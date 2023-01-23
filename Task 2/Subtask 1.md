@@ -1,1 +1,13 @@
+#### US_01
+**Test Case ID**|**Test Name**|**Description**|**Preconditions**|**Test Steps**|**Excepted results**|**Final Condition**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+SCOUT001|Sign in to the app|The purpose of the test is to log the user into the application|The user account must exist and be active|1. In the LOGIN field, enter the user's login 2. In the Password field, enter the password for user 3. Click the Sign In button|The home page of the application is displayed.|Logged-in user. Visible home page.
+SCOUT002|User password reminder |The purpose of the test is to reset the user's password| The account must exist. |1. In the login window, click Forgot Password. 2. Enter the user's email address.3. Click Send| User password is reminded/reset |Password change. The user can log on.
+SCOUT003|Change the language of the application|The purpose of the test is to verify the possibility of changing the language of the application |The user must be logged in. |1. Click the change language button 2. Verify that the language has been changed (also on subpages) |Change the language on the application |Change the language of the application. The change applies to all subpages.
 
+#### US_02
+**Test Case ID**|**Test Name**|**Description**|**Preconditions**|**Test Steps**|**Excepted results**|**Final Condition**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+SCOUT001|Creating a player account |The purpose of the test is to create a new player |the user must be logged in. There must be an Add Player button on the page. The user does not fill in all fields|1. Click the Add Player button. Fill in all fields. Click "Add Player"|New player added|A new player has been added. The player is visible in the statements.
+SCOUT002|Attempt to create a player without completing all fields |The purpose of the test is to verify the variants of creating a new player |The user must be logged in. There must be an Add Player button on the page.|1. Click the Add Player button. 2. Do not fill in all fields. 3. Click "Add Player" |New Player is not added |New Player is not added. The player is not visible and the application
+SCOUT003|Attempt to create a player without completing the mandatory fields |The purpose of the test is to verify the variants of creating a new player|The user must be logged in. There must be an Add Player button on the page. The user does not fill in the mandatory fields. |1. Click the Add Player button. 2. Do not fill in the mandatory fields. 3. Click "Add Player"| New Player is not added |New Player is not added. The message „Fill this field” appears, and when you click anywhere 'Field required” shows up. The player is not visible and the application
