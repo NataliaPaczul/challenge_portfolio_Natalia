@@ -1,28 +1,32 @@
 1.
 
-Aplikacja ***Focusly*** umożliwia jej użytkownikowi wprowadzenie do jego życia równowagi poprzez różne formyaktywności (jak np. ćwiczenia oddechowe,medytacje prowadzone, praktyki uważności, czy słuchanie muzyki do pracy, nauki czy odpoczynku).
+Aplikacja ***OLX*** umożliwia jej użytkownikowi zakupy oraz sprzedaż z zacisza swojego domu, przy użyciu aplikacji na smartphonie. 
 
-Użytkownik może już od początkującego poziomu zacząć swoją przygodę z praktyką, wyznaczać swoje cele, korzystać z kursów czy wyzwań. 
-Dzięki możliwości dodania praktyki do ulubionych poprzez naciśnięcie ikony serduszka przy danej praktyce może mieć do niej łatwy i szybki dostęp ze swojego prosilu bez poszukiwania go w aplikacji.
-Czas medytacji zlicza się podczas jej odbywania co użytkownik też może na bieżąco śledzić w oknie swojego profilu.
+Użytkownik może dzięki aplikacji nabyć wszelkiego rodzaju przedmioty (nowe i używane), znaleźć pracę, skorzystać z usług, a nawet zarezerwować nocleg. Działa to oczywiście w dwie strony – inny użytkownik jest sprzedającym.
+
+Aplikacja wielozadaniowa. I to wszystko do słownie w zasięgu ręki. Każdy znajdzie to czego szuka.
 
 2. 
 
 
-Użytkownikiem końcowym aplikacji mają być osoba, która cche wprowadzić do swojego życia pewnego rodzaju rutynę. Ktoś kto mdytuje, ma potrzebę wyciszenia  i potrzebuje aplikacji, która mu w tym pomoże. Osoba, która korzysta z aplikacji na smartfonie bądć tablecie.
+Są dwie strony użytkowników aplikacji – sprzedający oraz kupujący. Jedni chcą za pośrednictwem aplikacji sprzedać swoją ofertę, a drudzy poszukują oferty dla siebie. 
+
+Obie strony mają jasne i określone cele, które skłoniły ich do stworzenia konta użytkownika.
 
 3. 
 
-W mojej opinii aplikacja jest user friendly. Użytkownik od początku wiedo czego będzie służyc aplikacja. Jest bardzo intuicyjna więc nawet osoby, które nie używają tego typu aplikacji nacodzień, bezproblemu z nią sonie poradzą.
-Przestrzeń została badzo dobrze wykorzystana, nie ma tu niepotrzebnej straty przestrzeni, ani też elementó, które mogłby zaburzać funkcjonalność strony.
-Podstawowe funkcje aplikacji Użytkownik widzi w menu dolnym do którego może wejść z każdego miejsca. Opisane są również bardzo jasno.
+W mojej opinii aplikacja jest user friendly. Aplikacja jest intuicyjna w zasadzie, ąż od momentu stworzenia użytkownika, aż do wyszukiwania oferty.
+
+Nawet osoby, które nie używają tego typu aplikacji nacodzień, bez problemu z nią sonie poradzą.
+
+Brakuje mi nawigacji w dolnej części ekranu – użytkownik często jest przyzwyczajony do funkcji w zasięgu kciuka.
 
 
 4. 
 
 
-Według mnie UX i UI zrobili kawał dobrej roboty. Jedyne co miprzeszkadza to button "Twórcy" w prawym dolnym rogu aplikacji. Za każdym razem gdy chciałam wejść w Profil użytkownika, odruchowo klikałam w to pole. Myślę, że to pole mogło zostać przeniesiowe w inne miejsce aplikacji. Poza tym buttonem, aplikacja jest prosta, funkcjonalna ilogiczna w swojej funkcjonalności.
-Dodatkowo myslę, że ciekawą opcją byłaby opcja wprowadzenia np. drużyn, w których użytkownicy mogliby praktykować razem. Wsrto budować społeczność, angażować użytkowników.
+Aplikacja jest intuicyjna i user friendly ale w mojej ocenie zawsze mogłoby być lepiej. Jak chociażby wprowadzenie nawigacji w obrębie dolnego menu.
+Brakuje mi też "okruszków" - ścieżki do oferty, która ułatwiłaby użytkownikowi np. przejdzie do podkategorii, która go interesuje bez przechodzenia całej ścieżki wyszukiwania.
 
 
 5. Różnice między testowaniem aplikacji internetowej a natywnej:
@@ -31,7 +35,7 @@ Aplikacjia natywna (w przeciwieństwie do internetowej) wymaga jej pobrania i za
 
 Tester musi weryfikować czy aplikacja działa poprawnie, bez przerwy (np. w czasie przychodzącego połącznenia, uruchomienia innej aplikacji, zgubienia sieci czy konieczności ładowania urządzenia).
 
-Weryfikacja aktualizacji aplikacji - czy aplikacja pobiera się, czy aplikacja uruchamia się po aktualizacji i czy dane sprzed aktualizacji są widoczne (np. wprzypadku Focusly  licznik medytacji)
+Weryfikacja aktualizacji aplikacji - czy aplikacja pobiera się, czy aplikacja uruchamia się po aktualizacji i czy dane sprzed aktualizacji są widoczne (np. wprzypadku OLX czy dane użytkowników się zgadzają, czy w przypadku Sprzedającego - jego oferty dalej są widoczne).
 
 
 
