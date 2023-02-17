@@ -24,7 +24,6 @@ UPDATE customers SET email = CONCAT('pati@mail.com') WHERE email IS NULL;
 ![image](https://user-images.githubusercontent.com/122802548/219758149-5480e174-b6a0-4a7d-9c5e-76a1360f8f40.png)
 
 
-
 ### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
 SELECT sale.customer_id, sale.movie_id, sale.sale_date,customers.customer_id, customers.name, customers.surname, movies.movie_id,movies.title FROM customers INNER JOIN sale ON customers.customer_id=sale.customer_id INNER JOIN movies ON sale.movie_id=movies.movie_id;
@@ -67,7 +66,7 @@ SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM actors IN
 ![image](https://user-images.githubusercontent.com/122802548/219761148-03fda02f-f04e-4a5e-8092-0bc2b2f35169.png)
 
 
-### 20 A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
 INSERT INTO customers (customer_id, name, surname, email, pseudomyn) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
