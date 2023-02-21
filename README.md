@@ -9,6 +9,10 @@
 ## TASK 6 [Portfolio](https://github.com/NataliaPaczul/Portfolio)
 
 
+
+
+
+
 ## TASK 1
 ### Subtask 1
 Otrzymałam 8/10
