@@ -1,4 +1,14 @@
 # challenge_portfolio_Natalia
+
+## TASK 1 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/README.md#task-1)
+## TASK 2 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/Task%202)
+## TASK 3 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/Task%203)
+## TASK 4 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/Task%204)
+## TASK 5 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/TASK%205)
+## TASK 6 [znajdziesz tu](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/TASK%206)
+## TASK 6 [Portfolio](https://github.com/NataliaPaczul/Portfolio)
+
+
 ## TASK 1
 ### Subtask 1
 Otrzymałam 8/10
